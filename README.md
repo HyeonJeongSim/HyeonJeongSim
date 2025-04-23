@@ -47,7 +47,7 @@
 
 ---
 
-## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonJeongSim&layout=compact)
+<!-- ## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonJeongSim&layout=compact) -->
 
 ### 📖 교육 | STUDY
 
@@ -60,8 +60,3 @@
 - 2016.09~2018.07 필리핀 | University of Santo Tomas
 - 15.10~16.07 미국 | Eagle's View Academy
 - 12.09~15.07 필리핀 | Trinity University of Aisa High School
-
-### 💼 이력 | EXPERIENCE
-
-- 24.05 ~ 24.07 파워플레이어 | 해외영업 & 글로벌 마케팅
-- 23.03 ~ 24.03 한국마이콤 | 해외영업 & 기술영업
