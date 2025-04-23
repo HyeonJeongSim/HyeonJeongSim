@@ -1,11 +1,9 @@
-### 👩🏻‍💻 GOAL - 세상의 불편함을 해결하는 개발자, 심현정입니다.
+### 👩🏻‍💻 GOAL | 일상의 편안함을 주는 웹 개발자, 심현정입니다.
 
-![User Pleasure](https://img.shields.io/badge/User%20Pleasure-FFE2E2?style=for-the-badge)
+고객의 눈높이에서 시작해 누구에게나 편안한, 접근성 높은 프론트엔드 개발을 지향합니다.
+
 ![Life-Enhancing Development](https://img.shields.io/badge/Life%20Enhancing%20Development-FFD966?style=for-the-badge)
-
-기술 친숙도나 사용의 어려움에 상관없이 **모든 사용자에게 최고의 디지털 경험(DX)을 제공하는 데 열정**을 가지고 있어요.
-
-개발의 본질은 기술이 아닌, 세상의 문제/ 사람들의 불편함을 해결에 있다고 믿어요.
+![USER PLEASURE](https://img.shields.io/badge/USER%20PLEASURE-FFE2E2?style=for-the-badge)
 
 ---
 
@@ -24,25 +22,31 @@
 ### 💪 나만의 강점 | MY UNIQUE STRENGTHS
 
 <div>
-  <img src="https://img.shields.io/badge/Problem%20Solving-E6E6FA?style=for-the-badge" alt="Problem Solving Badge" >
-  <p>- 이슈가 생기면, 긍정적이고 차분한 태도로 문제를 해결하는 모습이 인상 깊어요.</p>
-  <p>- 어려운 기술 과제도 주저하지 않고 도전하고 성장해요.</p>
+  <img src="https://img.shields.io/badge/Goal%20Oriented-E6E6FA?style=for-the-badge" alt="Goal Oriented Badge" >
+  <ul>
+  <li>한 가지에 깊이 몰입해서 목표를 달성해요.</li>
+  <li>목표가 생기면 다양한 접근 방법을 시도하며 끝까지 해결책을 찾아내요.</li>
+  </ul>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/Time%20Management-B3E5FC?style=for-the-badge" alt="Time Management Badge" >
-  <p >- 작업 스케줄 관리를 통해 효율적으로 작업을 진행하고, 이른 시간에 맡은 작업을 완료해요.</p>
-  <p>- 깊은 몰입과 추친력으로 높은 생산성을 유지해요.</p>
+  <img src="https://img.shields.io/badge/Communication-B3E5FC?style=for-the-badge" alt="Communication Badge" >
+  <ul>
+  <li>팀원들의 작업 흐름을 이해하고 배려하는 태도로 소통해요.</li>
+  <li>목표에 따라 적극적으로 의견을 제시하고, 경청해요.</li>
+  </ul>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/Communication-FFF9C4?style=for-the-badge" alt="Communication Badge" >
-  <p >- 논리적인 근거로 의견을 제시하고 팀원의 의견을 경청해요.</p>
+  <img src="https://img.shields.io/badge/Detail-FFF9C4?style=for-the-badge" alt="Detail Badge" >
+  <ul>
+  <li>보기 편한 화면을 제공하기 위해, 코드뿐 아니라 UI 구성과 스타일의 세부까지 신경 써요.</li>
+  </ul>
 </div>
 
 ---
 
 ### ✨ 기술 | SKILL
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,typescript,react,jquery,bootstrap,php,firebase" /><br>
+<img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,typescript,react,php,jquery,bootstrap,firebase" /><br>
 <img src="https://skillicons.dev/icons?i=figma,notion,git,github" />
 
 ---
@@ -51,12 +55,12 @@
 
 ### 📖 교육 | STUDY
 
-- 24.09 ~ 25.04 그린 컴퓨터 아트 학원 | 웹디자인 (웹퍼블리셔) & 프론트엔드 SW개발자 양성 교육
+- 24.09 ~ 25.04 그린컴퓨터아트학원 | 웹디자인 (웹퍼블리셔) & 프론트엔드 SW개발자 양성 교육 과정
 - 23.12 ~ 24.04 한국진로교육원 | K뷰티산업실무과정 7기
 - 22.09 ~ 22.10 대구디지털산업진흥원 | 디지털 마케팅 교육 과정
 
 ### 🌏 해외경험 | OVERSEAS EXPERIENCE
 
-- 2016.09~2018.07 필리핀 | University of Santo Tomas
-- 15.10~16.07 미국 | Eagle's View Academy
-- 12.09~15.07 필리핀 | Trinity University of Aisa High School
+- 16.09 ~ 18.07 University of Santo Tomas | 필리핀
+- 15.10 ~ 16.07 Eagle's View Academy | 미국
+- 12.09 ~ 15.07 Trinity University of Aisa High School | 필리핀
